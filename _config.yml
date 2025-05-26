@@ -25,7 +25,7 @@ title: Test de Collection builders pour les bibliothèques
 tagline: c'est cool!
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Voici un exemple de l'utilisation de collection builder"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: BibUdeM & collection building team
 
@@ -34,7 +34,7 @@ author: BibUdeM & collection building team
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: CB_test_data
 
 ##########
 # Site/Organization Branding 
